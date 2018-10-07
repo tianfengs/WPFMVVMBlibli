@@ -110,6 +110,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Doc\深入浅出WPF之MVVM入门与提高Blibli.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -119,6 +120,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <SubType>Designer</SubType>
     </Content>
+    <Resource Include="Doc\MVVMPrinzip.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
